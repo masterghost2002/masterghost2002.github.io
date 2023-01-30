@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74f7d433.css",
+    "main.js": "/static/js/main.37600156.js",
+    "static/media/engineer_news_img_dark.png": "/static/media/engineer_news_img_dark.357e954468ad62e3d73c.png",
+    "static/media/engineer_news_img_light.png": "/static/media/engineer_news_img_light.1a2750c0caa9ee667ec2.png",
+    "static/media/HR_PS_I.jpg": "/static/media/HR_PS_I.37e512de804cae1c66a1.jpg",
+    "static/media/HR_PS_B.jpg": "/static/media/HR_PS_B.108aab9ce9d22c2b6c42.jpg",
+    "static/media/monkey_weather_img_light.png": "/static/media/monkey_weather_img_light.d01441f98097376dbd3b.png",
+    "static/media/portfolio_img_light.png": "/static/media/portfolio_img_light.b4e9b83a96696148c5ff.png",
+    "static/media/portfolio_img_dark.png": "/static/media/portfolio_img_dark.836a45a43131b6ee9b80.png",
+    "static/media/profile_avatar_two.png": "/static/media/profile_avatar_two.4a344055b3780a29c0fb.png",
+    "static/media/monkey_app_img_dark.png": "/static/media/monkey_app_img_dark.187761a3eed9d9935b84.png",
+    "static/media/monkey_app_img_light.png": "/static/media/monkey_app_img_light.4a6d61b62439843cc4a3.png",
+    "static/media/mern_stack_gfg.png": "/static/media/mern_stack_gfg.36992f1de77525ee7d04.png",
+    "index.html": "/index.html",
+    "static/media/purple_bg.svg": "/static/media/purple_bg.457ca33aa043f4267d3130884387d1bc.svg",
+    "main.74f7d433.css.map": "/static/css/main.74f7d433.css.map",
+    "main.37600156.js.map": "/static/js/main.37600156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74f7d433.css",
+    "static/js/main.37600156.js"
+  ]
+}
